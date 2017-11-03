@@ -1,0 +1,201 @@
+D:\ESTUDOS DE .NET\ProductStore\ProductStore\obj\Debug\ProductStore.csprojResolveAssemblyReference.cache
+D:\ESTUDOS DE .NET\ProductStore\ProductStore\bin\ProductStore.dll.config
+D:\ESTUDOS DE .NET\ProductStore\ProductStore\bin\ProductStore.dll
+D:\ESTUDOS DE .NET\ProductStore\ProductStore\bin\ProductStore.pdb
+D:\ESTUDOS DE .NET\ProductStore\ProductStore\bin\Antlr3.Runtime.dll
+D:\ESTUDOS DE .NET\ProductStore\ProductStore\bin\EntityFramework.dll
+D:\ESTUDOS DE .NET\ProductStore\ProductStore\bin\Microsoft.Data.Edm.dll
+D:\ESTUDOS DE .NET\ProductStore\ProductStore\bin\Microsoft.Data.OData.dll
+D:\ESTUDOS DE .NET\ProductStore\ProductStore\bin\Microsoft.Web.Infrastructure.dll
+D:\ESTUDOS DE .NET\ProductStore\ProductStore\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+D:\ESTUDOS DE .NET\ProductStore\ProductStore\bin\Newtonsoft.Json.dll
+D:\ESTUDOS DE .NET\ProductStore\ProductStore\bin\System.Spatial.dll
+D:\ESTUDOS DE .NET\ProductStore\ProductStore\bin\System.Web.Helpers.dll
+D:\ESTUDOS DE .NET\ProductStore\ProductStore\bin\System.Web.Http.OData.dll
+D:\ESTUDOS DE .NET\ProductStore\ProductStore\bin\System.Web.Http.Tracing.dll
+D:\ESTUDOS DE .NET\ProductStore\ProductStore\bin\System.Web.Mvc.dll
+D:\ESTUDOS DE .NET\ProductStore\ProductStore\bin\System.Web.Optimization.dll
+D:\ESTUDOS DE .NET\ProductStore\ProductStore\bin\System.Web.Providers.dll
+D:\ESTUDOS DE .NET\ProductStore\ProductStore\bin\System.Web.Razor.dll
+D:\ESTUDOS DE .NET\ProductStore\ProductStore\bin\System.Web.WebPages.Deployment.dll
+D:\ESTUDOS DE .NET\ProductStore\ProductStore\bin\System.Web.WebPages.dll
+D:\ESTUDOS DE .NET\ProductStore\ProductStore\bin\System.Web.WebPages.Razor.dll
+D:\ESTUDOS DE .NET\ProductStore\ProductStore\bin\WebGrease.dll
+D:\ESTUDOS DE .NET\ProductStore\ProductStore\bin\EntityFramework.xml
+D:\ESTUDOS DE .NET\ProductStore\ProductStore\bin\Newtonsoft.Json.xml
+D:\ESTUDOS DE .NET\ProductStore\ProductStore\bin\System.Web.Helpers.xml
+D:\ESTUDOS DE .NET\ProductStore\ProductStore\bin\System.Web.Mvc.xml
+D:\ESTUDOS DE .NET\ProductStore\ProductStore\bin\System.Web.Razor.xml
+D:\ESTUDOS DE .NET\ProductStore\ProductStore\bin\System.Web.WebPages.xml
+D:\ESTUDOS DE .NET\ProductStore\ProductStore\bin\System.Web.WebPages.Deployment.xml
+D:\ESTUDOS DE .NET\ProductStore\ProductStore\bin\System.Web.WebPages.Razor.xml
+D:\ESTUDOS DE .NET\ProductStore\ProductStore\bin\System.Web.Http.Tracing.xml
+D:\ESTUDOS DE .NET\ProductStore\ProductStore\bin\System.Web.Http.OData.xml
+D:\ESTUDOS DE .NET\ProductStore\ProductStore\bin\Microsoft.Data.Edm.xml
+D:\ESTUDOS DE .NET\ProductStore\ProductStore\bin\Microsoft.Data.OData.xml
+D:\ESTUDOS DE .NET\ProductStore\ProductStore\bin\System.Spatial.xml
+D:\ESTUDOS DE .NET\ProductStore\ProductStore\bin\de\Microsoft.Data.Edm.resources.dll
+D:\ESTUDOS DE .NET\ProductStore\ProductStore\bin\es\Microsoft.Data.Edm.resources.dll
+D:\ESTUDOS DE .NET\ProductStore\ProductStore\bin\fr\Microsoft.Data.Edm.resources.dll
+D:\ESTUDOS DE .NET\ProductStore\ProductStore\bin\it\Microsoft.Data.Edm.resources.dll
+D:\ESTUDOS DE .NET\ProductStore\ProductStore\bin\ja\Microsoft.Data.Edm.resources.dll
+D:\ESTUDOS DE .NET\ProductStore\ProductStore\bin\ko\Microsoft.Data.Edm.resources.dll
+D:\ESTUDOS DE .NET\ProductStore\ProductStore\bin\ru\Microsoft.Data.Edm.resources.dll
+D:\ESTUDOS DE .NET\ProductStore\ProductStore\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+D:\ESTUDOS DE .NET\ProductStore\ProductStore\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+D:\ESTUDOS DE .NET\ProductStore\ProductStore\bin\de\Microsoft.Data.OData.resources.dll
+D:\ESTUDOS DE .NET\ProductStore\ProductStore\bin\es\Microsoft.Data.OData.resources.dll
+D:\ESTUDOS DE .NET\ProductStore\ProductStore\bin\fr\Microsoft.Data.OData.resources.dll
+D:\ESTUDOS DE .NET\ProductStore\ProductStore\bin\it\Microsoft.Data.OData.resources.dll
+D:\ESTUDOS DE .NET\ProductStore\ProductStore\bin\ja\Microsoft.Data.OData.resources.dll
+D:\ESTUDOS DE .NET\ProductStore\ProductStore\bin\ko\Microsoft.Data.OData.resources.dll
+D:\ESTUDOS DE .NET\ProductStore\ProductStore\bin\ru\Microsoft.Data.OData.resources.dll
+D:\ESTUDOS DE .NET\ProductStore\ProductStore\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+D:\ESTUDOS DE .NET\ProductStore\ProductStore\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+D:\ESTUDOS DE .NET\ProductStore\ProductStore\bin\de\System.Spatial.resources.dll
+D:\ESTUDOS DE .NET\ProductStore\ProductStore\bin\es\System.Spatial.resources.dll
+D:\ESTUDOS DE .NET\ProductStore\ProductStore\bin\fr\System.Spatial.resources.dll
+D:\ESTUDOS DE .NET\ProductStore\ProductStore\bin\it\System.Spatial.resources.dll
+D:\ESTUDOS DE .NET\ProductStore\ProductStore\bin\ja\System.Spatial.resources.dll
+D:\ESTUDOS DE .NET\ProductStore\ProductStore\bin\ko\System.Spatial.resources.dll
+D:\ESTUDOS DE .NET\ProductStore\ProductStore\bin\ru\System.Spatial.resources.dll
+D:\ESTUDOS DE .NET\ProductStore\ProductStore\bin\zh-Hans\System.Spatial.resources.dll
+D:\ESTUDOS DE .NET\ProductStore\ProductStore\bin\zh-Hant\System.Spatial.resources.dll
+D:\ESTUDOS DE .NET\ProductStore\ProductStore\obj\Debug\ProductStore.dll
+D:\ESTUDOS DE .NET\ProductStore\ProductStore\obj\Debug\ProductStore.pdb
+D:\ESTUDOS DE .NET\ASP.NET-WEB-API-WITH-ANGULARJS\ProductStore\ProductStore\bin\ProductStore.dll.config
+D:\ESTUDOS DE .NET\ASP.NET-WEB-API-WITH-ANGULARJS\ProductStore\ProductStore\bin\ProductStore.dll
+D:\ESTUDOS DE .NET\ASP.NET-WEB-API-WITH-ANGULARJS\ProductStore\ProductStore\bin\ProductStore.pdb
+D:\ESTUDOS DE .NET\ASP.NET-WEB-API-WITH-ANGULARJS\ProductStore\ProductStore\bin\Antlr3.Runtime.dll
+D:\ESTUDOS DE .NET\ASP.NET-WEB-API-WITH-ANGULARJS\ProductStore\ProductStore\bin\EntityFramework.dll
+D:\ESTUDOS DE .NET\ASP.NET-WEB-API-WITH-ANGULARJS\ProductStore\ProductStore\bin\Microsoft.Data.Edm.dll
+D:\ESTUDOS DE .NET\ASP.NET-WEB-API-WITH-ANGULARJS\ProductStore\ProductStore\bin\Microsoft.Data.OData.dll
+D:\ESTUDOS DE .NET\ASP.NET-WEB-API-WITH-ANGULARJS\ProductStore\ProductStore\bin\Microsoft.Web.Infrastructure.dll
+D:\ESTUDOS DE .NET\ASP.NET-WEB-API-WITH-ANGULARJS\ProductStore\ProductStore\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+D:\ESTUDOS DE .NET\ASP.NET-WEB-API-WITH-ANGULARJS\ProductStore\ProductStore\bin\Newtonsoft.Json.dll
+D:\ESTUDOS DE .NET\ASP.NET-WEB-API-WITH-ANGULARJS\ProductStore\ProductStore\bin\System.Spatial.dll
+D:\ESTUDOS DE .NET\ASP.NET-WEB-API-WITH-ANGULARJS\ProductStore\ProductStore\bin\System.Web.Helpers.dll
+D:\ESTUDOS DE .NET\ASP.NET-WEB-API-WITH-ANGULARJS\ProductStore\ProductStore\bin\System.Web.Http.OData.dll
+D:\ESTUDOS DE .NET\ASP.NET-WEB-API-WITH-ANGULARJS\ProductStore\ProductStore\bin\System.Web.Http.Tracing.dll
+D:\ESTUDOS DE .NET\ASP.NET-WEB-API-WITH-ANGULARJS\ProductStore\ProductStore\bin\System.Web.Mvc.dll
+D:\ESTUDOS DE .NET\ASP.NET-WEB-API-WITH-ANGULARJS\ProductStore\ProductStore\bin\System.Web.Optimization.dll
+D:\ESTUDOS DE .NET\ASP.NET-WEB-API-WITH-ANGULARJS\ProductStore\ProductStore\bin\System.Web.Providers.dll
+D:\ESTUDOS DE .NET\ASP.NET-WEB-API-WITH-ANGULARJS\ProductStore\ProductStore\bin\System.Web.Razor.dll
+D:\ESTUDOS DE .NET\ASP.NET-WEB-API-WITH-ANGULARJS\ProductStore\ProductStore\bin\System.Web.WebPages.Deployment.dll
+D:\ESTUDOS DE .NET\ASP.NET-WEB-API-WITH-ANGULARJS\ProductStore\ProductStore\bin\System.Web.WebPages.dll
+D:\ESTUDOS DE .NET\ASP.NET-WEB-API-WITH-ANGULARJS\ProductStore\ProductStore\bin\System.Web.WebPages.Razor.dll
+D:\ESTUDOS DE .NET\ASP.NET-WEB-API-WITH-ANGULARJS\ProductStore\ProductStore\bin\WebGrease.dll
+D:\ESTUDOS DE .NET\ASP.NET-WEB-API-WITH-ANGULARJS\ProductStore\ProductStore\bin\EntityFramework.xml
+D:\ESTUDOS DE .NET\ASP.NET-WEB-API-WITH-ANGULARJS\ProductStore\ProductStore\bin\Newtonsoft.Json.xml
+D:\ESTUDOS DE .NET\ASP.NET-WEB-API-WITH-ANGULARJS\ProductStore\ProductStore\bin\System.Web.Helpers.xml
+D:\ESTUDOS DE .NET\ASP.NET-WEB-API-WITH-ANGULARJS\ProductStore\ProductStore\bin\System.Web.Mvc.xml
+D:\ESTUDOS DE .NET\ASP.NET-WEB-API-WITH-ANGULARJS\ProductStore\ProductStore\bin\System.Web.Razor.xml
+D:\ESTUDOS DE .NET\ASP.NET-WEB-API-WITH-ANGULARJS\ProductStore\ProductStore\bin\System.Web.WebPages.xml
+D:\ESTUDOS DE .NET\ASP.NET-WEB-API-WITH-ANGULARJS\ProductStore\ProductStore\bin\System.Web.WebPages.Deployment.xml
+D:\ESTUDOS DE .NET\ASP.NET-WEB-API-WITH-ANGULARJS\ProductStore\ProductStore\bin\System.Web.WebPages.Razor.xml
+D:\ESTUDOS DE .NET\ASP.NET-WEB-API-WITH-ANGULARJS\ProductStore\ProductStore\bin\System.Web.Http.Tracing.xml
+D:\ESTUDOS DE .NET\ASP.NET-WEB-API-WITH-ANGULARJS\ProductStore\ProductStore\bin\System.Web.Http.OData.xml
+D:\ESTUDOS DE .NET\ASP.NET-WEB-API-WITH-ANGULARJS\ProductStore\ProductStore\bin\Microsoft.Data.Edm.xml
+D:\ESTUDOS DE .NET\ASP.NET-WEB-API-WITH-ANGULARJS\ProductStore\ProductStore\bin\Microsoft.Data.OData.xml
+D:\ESTUDOS DE .NET\ASP.NET-WEB-API-WITH-ANGULARJS\ProductStore\ProductStore\bin\System.Spatial.xml
+D:\ESTUDOS DE .NET\ASP.NET-WEB-API-WITH-ANGULARJS\ProductStore\ProductStore\bin\de\Microsoft.Data.Edm.resources.dll
+D:\ESTUDOS DE .NET\ASP.NET-WEB-API-WITH-ANGULARJS\ProductStore\ProductStore\bin\es\Microsoft.Data.Edm.resources.dll
+D:\ESTUDOS DE .NET\ASP.NET-WEB-API-WITH-ANGULARJS\ProductStore\ProductStore\bin\fr\Microsoft.Data.Edm.resources.dll
+D:\ESTUDOS DE .NET\ASP.NET-WEB-API-WITH-ANGULARJS\ProductStore\ProductStore\bin\it\Microsoft.Data.Edm.resources.dll
+D:\ESTUDOS DE .NET\ASP.NET-WEB-API-WITH-ANGULARJS\ProductStore\ProductStore\bin\ja\Microsoft.Data.Edm.resources.dll
+D:\ESTUDOS DE .NET\ASP.NET-WEB-API-WITH-ANGULARJS\ProductStore\ProductStore\bin\ko\Microsoft.Data.Edm.resources.dll
+D:\ESTUDOS DE .NET\ASP.NET-WEB-API-WITH-ANGULARJS\ProductStore\ProductStore\bin\ru\Microsoft.Data.Edm.resources.dll
+D:\ESTUDOS DE .NET\ASP.NET-WEB-API-WITH-ANGULARJS\ProductStore\ProductStore\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+D:\ESTUDOS DE .NET\ASP.NET-WEB-API-WITH-ANGULARJS\ProductStore\ProductStore\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+D:\ESTUDOS DE .NET\ASP.NET-WEB-API-WITH-ANGULARJS\ProductStore\ProductStore\bin\de\Microsoft.Data.OData.resources.dll
+D:\ESTUDOS DE .NET\ASP.NET-WEB-API-WITH-ANGULARJS\ProductStore\ProductStore\bin\es\Microsoft.Data.OData.resources.dll
+D:\ESTUDOS DE .NET\ASP.NET-WEB-API-WITH-ANGULARJS\ProductStore\ProductStore\bin\fr\Microsoft.Data.OData.resources.dll
+D:\ESTUDOS DE .NET\ASP.NET-WEB-API-WITH-ANGULARJS\ProductStore\ProductStore\bin\it\Microsoft.Data.OData.resources.dll
+D:\ESTUDOS DE .NET\ASP.NET-WEB-API-WITH-ANGULARJS\ProductStore\ProductStore\bin\ja\Microsoft.Data.OData.resources.dll
+D:\ESTUDOS DE .NET\ASP.NET-WEB-API-WITH-ANGULARJS\ProductStore\ProductStore\bin\ko\Microsoft.Data.OData.resources.dll
+D:\ESTUDOS DE .NET\ASP.NET-WEB-API-WITH-ANGULARJS\ProductStore\ProductStore\bin\ru\Microsoft.Data.OData.resources.dll
+D:\ESTUDOS DE .NET\ASP.NET-WEB-API-WITH-ANGULARJS\ProductStore\ProductStore\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+D:\ESTUDOS DE .NET\ASP.NET-WEB-API-WITH-ANGULARJS\ProductStore\ProductStore\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+D:\ESTUDOS DE .NET\ASP.NET-WEB-API-WITH-ANGULARJS\ProductStore\ProductStore\bin\de\System.Spatial.resources.dll
+D:\ESTUDOS DE .NET\ASP.NET-WEB-API-WITH-ANGULARJS\ProductStore\ProductStore\bin\es\System.Spatial.resources.dll
+D:\ESTUDOS DE .NET\ASP.NET-WEB-API-WITH-ANGULARJS\ProductStore\ProductStore\bin\fr\System.Spatial.resources.dll
+D:\ESTUDOS DE .NET\ASP.NET-WEB-API-WITH-ANGULARJS\ProductStore\ProductStore\bin\it\System.Spatial.resources.dll
+D:\ESTUDOS DE .NET\ASP.NET-WEB-API-WITH-ANGULARJS\ProductStore\ProductStore\bin\ja\System.Spatial.resources.dll
+D:\ESTUDOS DE .NET\ASP.NET-WEB-API-WITH-ANGULARJS\ProductStore\ProductStore\bin\ko\System.Spatial.resources.dll
+D:\ESTUDOS DE .NET\ASP.NET-WEB-API-WITH-ANGULARJS\ProductStore\ProductStore\bin\ru\System.Spatial.resources.dll
+D:\ESTUDOS DE .NET\ASP.NET-WEB-API-WITH-ANGULARJS\ProductStore\ProductStore\bin\zh-Hans\System.Spatial.resources.dll
+D:\ESTUDOS DE .NET\ASP.NET-WEB-API-WITH-ANGULARJS\ProductStore\ProductStore\bin\zh-Hant\System.Spatial.resources.dll
+D:\ESTUDOS DE .NET\ASP.NET-WEB-API-WITH-ANGULARJS\ProductStore\ProductStore\obj\Debug\ProductStore.csprojResolveAssemblyReference.cache
+D:\ESTUDOS DE .NET\ASP.NET-WEB-API-WITH-ANGULARJS\ProductStore\ProductStore\obj\Debug\ProductStore.dll
+D:\ESTUDOS DE .NET\ASP.NET-WEB-API-WITH-ANGULARJS\ProductStore\ProductStore\obj\Debug\ProductStore.pdb
+C:\Users\kevjy\Documents\Fall2017\AngularJs-and-MVC-CSharp\ProductStore\ProductStore\bin\ProductStore.dll.config
+C:\Users\kevjy\Documents\Fall2017\AngularJs-and-MVC-CSharp\ProductStore\ProductStore\bin\ProductStore.dll
+C:\Users\kevjy\Documents\Fall2017\AngularJs-and-MVC-CSharp\ProductStore\ProductStore\bin\ProductStore.pdb
+C:\Users\kevjy\Documents\Fall2017\AngularJs-and-MVC-CSharp\ProductStore\ProductStore\bin\Antlr3.Runtime.dll
+C:\Users\kevjy\Documents\Fall2017\AngularJs-and-MVC-CSharp\ProductStore\ProductStore\bin\EntityFramework.dll
+C:\Users\kevjy\Documents\Fall2017\AngularJs-and-MVC-CSharp\ProductStore\ProductStore\bin\Microsoft.Data.Edm.dll
+C:\Users\kevjy\Documents\Fall2017\AngularJs-and-MVC-CSharp\ProductStore\ProductStore\bin\Microsoft.Data.OData.dll
+C:\Users\kevjy\Documents\Fall2017\AngularJs-and-MVC-CSharp\ProductStore\ProductStore\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\kevjy\Documents\Fall2017\AngularJs-and-MVC-CSharp\ProductStore\ProductStore\bin\Newtonsoft.Json.dll
+C:\Users\kevjy\Documents\Fall2017\AngularJs-and-MVC-CSharp\ProductStore\ProductStore\bin\System.Net.Http.Formatting.dll
+C:\Users\kevjy\Documents\Fall2017\AngularJs-and-MVC-CSharp\ProductStore\ProductStore\bin\System.Spatial.dll
+C:\Users\kevjy\Documents\Fall2017\AngularJs-and-MVC-CSharp\ProductStore\ProductStore\bin\System.Web.Helpers.dll
+C:\Users\kevjy\Documents\Fall2017\AngularJs-and-MVC-CSharp\ProductStore\ProductStore\bin\System.Web.Http.dll
+C:\Users\kevjy\Documents\Fall2017\AngularJs-and-MVC-CSharp\ProductStore\ProductStore\bin\System.Web.Http.OData.dll
+C:\Users\kevjy\Documents\Fall2017\AngularJs-and-MVC-CSharp\ProductStore\ProductStore\bin\System.Web.Http.Tracing.dll
+C:\Users\kevjy\Documents\Fall2017\AngularJs-and-MVC-CSharp\ProductStore\ProductStore\bin\System.Web.Http.WebHost.dll
+C:\Users\kevjy\Documents\Fall2017\AngularJs-and-MVC-CSharp\ProductStore\ProductStore\bin\System.Web.Mvc.dll
+C:\Users\kevjy\Documents\Fall2017\AngularJs-and-MVC-CSharp\ProductStore\ProductStore\bin\System.Web.Optimization.dll
+C:\Users\kevjy\Documents\Fall2017\AngularJs-and-MVC-CSharp\ProductStore\ProductStore\bin\System.Web.Providers.dll
+C:\Users\kevjy\Documents\Fall2017\AngularJs-and-MVC-CSharp\ProductStore\ProductStore\bin\System.Web.Razor.dll
+C:\Users\kevjy\Documents\Fall2017\AngularJs-and-MVC-CSharp\ProductStore\ProductStore\bin\System.Web.WebPages.Deployment.dll
+C:\Users\kevjy\Documents\Fall2017\AngularJs-and-MVC-CSharp\ProductStore\ProductStore\bin\System.Web.WebPages.dll
+C:\Users\kevjy\Documents\Fall2017\AngularJs-and-MVC-CSharp\ProductStore\ProductStore\bin\System.Web.WebPages.Razor.dll
+C:\Users\kevjy\Documents\Fall2017\AngularJs-and-MVC-CSharp\ProductStore\ProductStore\bin\WebGrease.dll
+C:\Users\kevjy\Documents\Fall2017\AngularJs-and-MVC-CSharp\ProductStore\ProductStore\bin\EntityFramework.xml
+C:\Users\kevjy\Documents\Fall2017\AngularJs-and-MVC-CSharp\ProductStore\ProductStore\bin\Newtonsoft.Json.xml
+C:\Users\kevjy\Documents\Fall2017\AngularJs-and-MVC-CSharp\ProductStore\ProductStore\bin\System.Net.Http.Formatting.xml
+C:\Users\kevjy\Documents\Fall2017\AngularJs-and-MVC-CSharp\ProductStore\ProductStore\bin\System.Web.Helpers.xml
+C:\Users\kevjy\Documents\Fall2017\AngularJs-and-MVC-CSharp\ProductStore\ProductStore\bin\System.Web.Http.xml
+C:\Users\kevjy\Documents\Fall2017\AngularJs-and-MVC-CSharp\ProductStore\ProductStore\bin\System.Web.Http.WebHost.xml
+C:\Users\kevjy\Documents\Fall2017\AngularJs-and-MVC-CSharp\ProductStore\ProductStore\bin\System.Web.Mvc.xml
+C:\Users\kevjy\Documents\Fall2017\AngularJs-and-MVC-CSharp\ProductStore\ProductStore\bin\System.Web.Razor.xml
+C:\Users\kevjy\Documents\Fall2017\AngularJs-and-MVC-CSharp\ProductStore\ProductStore\bin\System.Web.WebPages.xml
+C:\Users\kevjy\Documents\Fall2017\AngularJs-and-MVC-CSharp\ProductStore\ProductStore\bin\System.Web.WebPages.Deployment.xml
+C:\Users\kevjy\Documents\Fall2017\AngularJs-and-MVC-CSharp\ProductStore\ProductStore\bin\System.Web.WebPages.Razor.xml
+C:\Users\kevjy\Documents\Fall2017\AngularJs-and-MVC-CSharp\ProductStore\ProductStore\bin\System.Web.Http.Tracing.xml
+C:\Users\kevjy\Documents\Fall2017\AngularJs-and-MVC-CSharp\ProductStore\ProductStore\bin\System.Web.Http.OData.xml
+C:\Users\kevjy\Documents\Fall2017\AngularJs-and-MVC-CSharp\ProductStore\ProductStore\bin\Microsoft.Data.Edm.xml
+C:\Users\kevjy\Documents\Fall2017\AngularJs-and-MVC-CSharp\ProductStore\ProductStore\bin\Microsoft.Data.OData.xml
+C:\Users\kevjy\Documents\Fall2017\AngularJs-and-MVC-CSharp\ProductStore\ProductStore\bin\System.Spatial.xml
+C:\Users\kevjy\Documents\Fall2017\AngularJs-and-MVC-CSharp\ProductStore\ProductStore\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\kevjy\Documents\Fall2017\AngularJs-and-MVC-CSharp\ProductStore\ProductStore\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\kevjy\Documents\Fall2017\AngularJs-and-MVC-CSharp\ProductStore\ProductStore\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\kevjy\Documents\Fall2017\AngularJs-and-MVC-CSharp\ProductStore\ProductStore\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\kevjy\Documents\Fall2017\AngularJs-and-MVC-CSharp\ProductStore\ProductStore\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\kevjy\Documents\Fall2017\AngularJs-and-MVC-CSharp\ProductStore\ProductStore\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\kevjy\Documents\Fall2017\AngularJs-and-MVC-CSharp\ProductStore\ProductStore\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\kevjy\Documents\Fall2017\AngularJs-and-MVC-CSharp\ProductStore\ProductStore\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\kevjy\Documents\Fall2017\AngularJs-and-MVC-CSharp\ProductStore\ProductStore\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\kevjy\Documents\Fall2017\AngularJs-and-MVC-CSharp\ProductStore\ProductStore\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\kevjy\Documents\Fall2017\AngularJs-and-MVC-CSharp\ProductStore\ProductStore\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\kevjy\Documents\Fall2017\AngularJs-and-MVC-CSharp\ProductStore\ProductStore\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\kevjy\Documents\Fall2017\AngularJs-and-MVC-CSharp\ProductStore\ProductStore\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\kevjy\Documents\Fall2017\AngularJs-and-MVC-CSharp\ProductStore\ProductStore\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\kevjy\Documents\Fall2017\AngularJs-and-MVC-CSharp\ProductStore\ProductStore\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\kevjy\Documents\Fall2017\AngularJs-and-MVC-CSharp\ProductStore\ProductStore\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\kevjy\Documents\Fall2017\AngularJs-and-MVC-CSharp\ProductStore\ProductStore\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\kevjy\Documents\Fall2017\AngularJs-and-MVC-CSharp\ProductStore\ProductStore\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\kevjy\Documents\Fall2017\AngularJs-and-MVC-CSharp\ProductStore\ProductStore\bin\de\System.Spatial.resources.dll
+C:\Users\kevjy\Documents\Fall2017\AngularJs-and-MVC-CSharp\ProductStore\ProductStore\bin\es\System.Spatial.resources.dll
+C:\Users\kevjy\Documents\Fall2017\AngularJs-and-MVC-CSharp\ProductStore\ProductStore\bin\fr\System.Spatial.resources.dll
+C:\Users\kevjy\Documents\Fall2017\AngularJs-and-MVC-CSharp\ProductStore\ProductStore\bin\it\System.Spatial.resources.dll
+C:\Users\kevjy\Documents\Fall2017\AngularJs-and-MVC-CSharp\ProductStore\ProductStore\bin\ja\System.Spatial.resources.dll
+C:\Users\kevjy\Documents\Fall2017\AngularJs-and-MVC-CSharp\ProductStore\ProductStore\bin\ko\System.Spatial.resources.dll
+C:\Users\kevjy\Documents\Fall2017\AngularJs-and-MVC-CSharp\ProductStore\ProductStore\bin\ru\System.Spatial.resources.dll
+C:\Users\kevjy\Documents\Fall2017\AngularJs-and-MVC-CSharp\ProductStore\ProductStore\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\kevjy\Documents\Fall2017\AngularJs-and-MVC-CSharp\ProductStore\ProductStore\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\kevjy\Documents\Fall2017\AngularJs-and-MVC-CSharp\ProductStore\ProductStore\obj\Debug\ProductStore.csprojResolveAssemblyReference.cache
+C:\Users\kevjy\Documents\Fall2017\AngularJs-and-MVC-CSharp\ProductStore\ProductStore\obj\Debug\ProductStore.csproj.CoreCompileInputs.cache
+C:\Users\kevjy\Documents\Fall2017\AngularJs-and-MVC-CSharp\ProductStore\ProductStore\obj\Debug\ProductStore.dll
+C:\Users\kevjy\Documents\Fall2017\AngularJs-and-MVC-CSharp\ProductStore\ProductStore\obj\Debug\ProductStore.pdb

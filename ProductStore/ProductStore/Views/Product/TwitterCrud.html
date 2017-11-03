@@ -1,0 +1,57 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" data-ng-app="myApp">
+<head>
+    <meta charset="utf-8">
+    <title> Kevin's Fake Twitter</title>
+</head>
+<body data-ng-controller="productController">
+    <div>
+        <strong class="error">{{ error }}</strong>
+        <fieldset>
+            <form>
+                <input type="hidden" data-ng-model="product.Id">
+
+                <label for="nome">User Name</label>
+                <input type="text" id="nome" data-ng-model="product.Name"><br /><br />
+
+                <label for="nome">Date</label>
+                <input type="text" id="nome" data-ng-model="product.Category"><br /><br />
+
+                <label for="nome">Tweet</label>
+                <input type="text" id="nome" data-ng-model="product.Price"><br /><br />
+
+                <input type="submit" value="Save" data-ng-click="save(product)">
+            </form>
+        </fieldset>
+    </div><br /><br />
+    <div>
+        <fieldset>
+            <table border="1">
+                <thead>
+                    <tr>
+                        <th>UserName</th>
+                        <th>Date</th>
+                        <th>Tweet</th>
+                        
+                        <th></th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr data-ng-repeat="product in products">
+                        <td>{{product.Name}}</td>
+                        <td>{{product.Category}}</td>
+                        <td>{{product.Price}}</td>
+                        
+                        <td>[<a href="#" data-ng-click="edit(product)">Edit</a>] | [<a href="#" data-ng-click="delete(product)">Delete</a>]</td>
+                    </tr>
+                </tbody>
+            </table>
+        </fieldset>
+    </div>
+    <script type="text/javascript" src="../../Scripts/jquery-1.8.2.min.js"></script>
+    <script type="text/javascript" src="../../Scripts/angular.js"></script>
+    <script type="text/javascript" src="../../Scripts/angular-resource.js"></script>
+    <script type="text/javascript" src="../../Scripts/ProductJs.js"></script>
+</body>
+
+</html>
