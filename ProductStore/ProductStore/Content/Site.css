@@ -1,12 +1,28 @@
 ﻿html {
-    background-color: #e2e2e2;
+    background-color: #FFF;
     margin: 0;
     padding: 0;
 }
 
+div#inputs {
+  margin-left:1%;
+}
+
+div#header {
+  background-color: #BF4342;
+  height:50px;
+  color: #FFF;
+}
+
+div#header-text {
+  color: #FFF;
+  margin-left: 2%;
+  font-size: 250%;
+  font: Helvetica;
+}
+
 body {
     background-color: #fff;
-    border-top: solid 10px #000;
     color: #333;
     font-size: .85em;
     font-family: "Segoe UI", Verdana, Helvetica, Sans-Serif;
