@@ -4,6 +4,11 @@ $(document).ready(function() {
 });
 
 $(document).on('click', '#save-btn', function(evt) {
+  $('#name').removeClass('invalid');
+  $('#date').removeClass('invalid');
+  $('#tweet').removeClass('invalid');
+  $('.error').html('');
+
   let inputsValid = true;
 
   // Check for valid twitter handle
