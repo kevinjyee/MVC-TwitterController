@@ -7,39 +7,40 @@ namespace ProductStore.Models
 {
     public class ProductRepository : IProductRepository
     {
-        private List<Product> products = new List<Product>();
-        ProductDBContext db = new ProductDBContext();
+        private List<Tweets> products = new List<Tweets>();
+       TweetsDBContext db = new TweetsDBContext();
         private int _nextId = 1;
 
         public ProductRepository()
         {
            
-        Add(new Product { Name =  "@realDonaldTrump" , Category =  "2/22/2016" , Price = "I am growing the Republican Party tremendously - just look at the numbers, way up! Democrats numbers are significantly down from years past." });
-
-        Add(new Product { Name =  "@realDonaldTrump" , Category =  "6/2/2016" , Price = "Ted Cruz lifts the Bible high into the air and then lies like a dog-over and over again! The Evangelicals in S.C. figured him out &amp; said no!" });
-        Add(new Product { Name =  "@realDonaldTrump" , Category =  "7/20/2017" , Price = "Ted Cruz does not have the right temperment to be President. Look at the way he totally panicked in firing his director of comm. BAD!" });
-        Add(new Product { Name =  "@realDonaldTrump" , Category =  "5/18/2017" , Price = "Wow was Ted Cruz disloyal to his very capable director of communication. He used him as a scape goat-fired like a dog! Ted panicked." });
-        Add(new Product { Name =  "@realDonaldTrump" , Category =  "12/11/2016" , Price = "Ted Cruz only talks tough on immigration now because he did so badly in S.C. He is in favor of amnesty and weak on illegal immigration." });
+       
+        //Add(new Tweets { Id = 1, Name =  "realDonaldTrump" , Date = "2016-06-19", Text = "Ted Cruz lifts the Bible high into the air and then lies like a dog-over and over again! The Evangelicals in S.C. figured him out &amp; said no!" });
+        //Add(new Tweets { Id = 2, Name =  "realDonaldTrump" , Date = "2016-06-20", Text = "Ted Cruz does not have the right temperment to be President. Look at the way he totally panicked in firing his director of comm. BAD!" });
+        //Add(new Tweets { Id = 3, Name =  "realDonaldTrump" , Date = "2016-06-21", Text = "Wow was Ted Cruz disloyal to his very capable director of communication. He used him as a scape goat-fired like a dog! Ted panicked." });
+        //Add(new Tweets { Id = 4, Name =  "realDonaldTrump" , Date = "2016-06-21", Text = "Ted Cruz only talks tough on immigration now because he did so badly in S.C. He is in favor of amnesty and weak on illegal immigration." });
         
-        foreach(Product prod in products)
+        foreach(Tweets prod in products)
             {
-                db.Products.Add(prod);
+               //db.Products.Add(prod);
 
             }
            
         }
 
-        public IEnumerable<Product> GetAll()
+        public IEnumerable<Tweets> GetAll()
         {
-            return db.Products.Local.ToList();
+            //return products;
+            return db.Products;
         }
 
-        public Product Get(int id)
+        public Tweets Get(int id)
         {
-            return products.Find(p => p.Id == id);
+            // return products.Find(p => p.Id == id);
+            return db.Products.Find(id);
         }
 
-        public Product Add(Product item)
+        public Tweets Add(Tweets item)
         {
             if (item == null)
             {
@@ -55,21 +56,29 @@ namespace ProductStore.Models
         public void Remove(int id)
         {
             products.RemoveAll(p => p.Id == id);
+            Tweets t = db.Products.Find(id);
+            db.Products.Remove(t);
+            db.SaveChanges();
         }
 
-        public bool Update(Product item)
+        public bool Update(Tweets item)
         {
             if (item == null)
             {
                 throw new ArgumentNullException("item");
             }
-            int index = products.FindIndex(p => p.Id == item.Id);
-            if (index == -1)
-            {
-                return false;
-            }
-            products.RemoveAt(index);
-            products.Add(item);
+            //int index = products.FindIndex(p => p.Id == item.Id);
+            //if (index == -1)
+            //{
+            //    return false;
+            //}
+            
+            //products.RemoveAt(index);
+            //products.Add(item);
+            Tweets toRemove = db.Products.Find(item.Id);
+            db.Products.Remove(toRemove);
+            db.Products.Add(item);
+            db.SaveChanges();
             return true;
         }
     }

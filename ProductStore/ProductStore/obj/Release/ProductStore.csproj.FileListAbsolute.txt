@@ -68,3 +68,4 @@ C:\Users\kevjy\Documents\Fall2017\AngularJs-and-MVC-CSharp\ProductStore\ProductS
 C:\Users\kevjy\Documents\Fall2017\AngularJs-and-MVC-CSharp\ProductStore\ProductStore\obj\Release\ProductStore.csproj.CoreCompileInputs.cache
 C:\Users\kevjy\Documents\Fall2017\AngularJs-and-MVC-CSharp\ProductStore\ProductStore\obj\Release\ProductStore.dll
 C:\Users\kevjy\Documents\Fall2017\AngularJs-and-MVC-CSharp\ProductStore\ProductStore\obj\Release\ProductStore.pdb
+C:\Users\kevjy\Documents\Fall2017\AngularJs-and-MVC-CSharp\ProductStore\ProductStore\obj\Release\ProductStore.csprojResolveAssemblyReference.cache

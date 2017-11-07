@@ -15,10 +15,10 @@
                 <input type="text" id="nome" data-ng-model="product.Name"><br /><br />
 
                 <label for="nome">Date</label>
-                <input type="text" id="nome" data-ng-model="product.Category"><br /><br />
+                <input type="text" id="nome" data-ng-model="product.Date"><br /><br />
 
                 <label for="nome">Tweet</label>
-                <input type="text" id="nome" data-ng-model="product.Price"><br /><br />
+                <input type="text" id="nome" data-ng-model="product.Text"><br /><br />
 
                 <input type="submit" value="Save" data-ng-click="save(product)">
             </form>
@@ -39,8 +39,8 @@
                 <tbody>
                     <tr data-ng-repeat="product in products">
                         <td>{{product.Name}}</td>
-                        <td>{{product.Category}}</td>
-                        <td>{{product.Price}}</td>
+                        <td>{{product.Date}}</td>
+                        <td>{{product.Text}}</td>
                         
                         <td>[<a href="#" data-ng-click="edit(product)">Edit</a>] | [<a href="#" data-ng-click="delete(product)">Delete</a>]</td>
                     </tr>

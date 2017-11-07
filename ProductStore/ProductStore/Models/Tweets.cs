@@ -6,16 +6,17 @@ using System.Web;
 
 namespace ProductStore.Models
 {
-    public class Product
+    public class Tweets
     {
         public int Id { get; set; }
         public string Name { get; set; }
-        public string Category { get; set; }
-        public string Price { get; set; }
-    }
+        public string Date { get; set; }
+        public string Text { get; set; }
 
-    public class ProductDBContext : DbContext
+        
+    }
+    public class TweetsDBContext : DbContext
     {
-        public DbSet<Product> Products { get; set; }
+        public DbSet<Tweets> Products { get; set; }
     }
 }

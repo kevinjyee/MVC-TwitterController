@@ -8,10 +8,10 @@ namespace ProductStore.Models
 {
     public interface IProductRepository
     {
-        IEnumerable<Product> GetAll();
-        Product Get(int id);
-        Product Add(Product item);
+        IEnumerable<Tweets> GetAll();
+        Tweets Get(int id);
+        Tweets Add(Tweets item);
         void Remove(int id);
-        bool Update(Product item);
+        bool Update(Tweets item);
     }
 }
