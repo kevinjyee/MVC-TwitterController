@@ -3,14 +3,15 @@
 app.controller('productController', ['$scope', '$http', '$window', function ($scope, $http, $window) {
 
     var init = function () {
+      /*
         $http.get('/api/products/').success(function (data) {
             $scope.products = data;
         })
         .error(function () {
             $scope.error = "An Error has occured while loading posts!";
         })
-
-        $scope.date = new Date().toISOString();
+        */
+      $scope.date = new Date().toISOString();
     };
 
     $scope.delete = function (product) {

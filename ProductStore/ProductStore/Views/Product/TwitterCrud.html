@@ -41,7 +41,7 @@
               <span><b>Date:</b></span>
             </div>
             <div>
-              <input type="date" id="date" data-ng-model="product.Date"
+              <input id="date" data-ng-model="product.Date"
                                            required>
               <p class="error" id="date-error"></p>
             </div>
@@ -66,18 +66,16 @@
     <br />
     <div>
         <div class="container-fluid">
-            <table border="1">
+            <table id="table-data" border="1">
                 <thead>
-                    <tr>
+                    <tr id="table-header">
                         <th>UserName</th>
                         <th>Date</th>
                         <th>Tweet</th>
-                        
-                        <th></th>
                     </tr>
                 </thead>
                 <tbody>
-                    <tr data-ng-repeat="product in products">
+                    <tr id="table-body" data-ng-repeat="product in products">
                         <td>{{product.Name}}</td>
                         <td>{{product.Date}}</td>
                         <td>{{product.Text}}</td>
@@ -92,6 +90,7 @@
     <script type="text/javascript" src="../../Scripts/angular.js"></script>
     <script type="text/javascript" src="../../Scripts/angular-resource.js"></script>
     <script type="text/javascript" src="../../Scripts/ProductJs.js"></script>
+    <script type="text/javascript" src="../../Scripts/script.js"></script>
 </body>
 
 </html>
